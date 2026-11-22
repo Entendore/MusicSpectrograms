@@ -1,0 +1,22 @@
+{
+    "output_batch": "E:\\YoutubeProjects\\MusicSpectrograms",
+    "output_merge": "E:\\YoutubeProjects\\MusicSpectrograms\\Merge_Output.mp4",
+    "settings": {
+        "resolution": 0,
+        "profile": 0,
+        "fps": 30,
+        "window": 5.0,
+        "gpu": true,
+        "merge": false,
+        "suffix": "",
+        "colormap": "rainbow",
+        "overlay": true,
+        "min_freq": 20,
+        "max_freq": 20000,
+        "dyn_range": 80,
+        "gamma": 1.0,
+        "normalize": true,
+        "bass": 0.0,
+        "treble": 0.0
+    }
+}
